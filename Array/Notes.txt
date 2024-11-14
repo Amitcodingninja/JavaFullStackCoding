@@ -1,0 +1,8 @@
+Coding Ninja
+https://www.naukri.com/code360/problem-lists/top-array-coding-interview-questions?practice_topic[]=Arrays&difficulty[]=Easy
+
+GeeksforGeeks
+https://www.geeksforgeeks.org/top-50-array-coding-problems-for-interviews/
+
+https://iq.opengenus.org/list-of-array-problems/
+
